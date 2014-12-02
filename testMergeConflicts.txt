@@ -1,0 +1,3 @@
+How to deal with merge conflicts
+Another conflict
+Yet another conflict
